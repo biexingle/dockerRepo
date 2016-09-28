@@ -2,7 +2,7 @@ FROM ubuntu
 
 MAINTAINER tanc "gogotanc@163.com"
 
-ADD ./start.sh /root/start.sh
+# ADD ./start.sh /root/start.sh
 
 RUN apt-get update
 
