@@ -10,7 +10,7 @@ RUN apt-get install -y redis-server
 
 RUN apt-get install -y openssh-server
 
-CMD ["redis-server","/etc/redis/redis.conf"]
+CMD ["redis-server"]
 
 EXPOSE 6379
 
