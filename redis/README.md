@@ -28,4 +28,4 @@ $ docker exec -it CONTAINER_ID /bin/bash
 
 > 上面的 CONTAINER_ID 可以使用 docker ps 查看。
 
-ok ，先告一段路吧，未完待续。
+ok ，先告一段落吧，未完待续。
